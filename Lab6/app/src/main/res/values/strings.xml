@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Survey App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_addQuestion">Add Question</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="new_quiz">Nueva encuesta</string>
+    <string name="list_content_desc">Un icono de lista</string>
+    <string name="About" >About it</string>
+    <string name="all_questions">Questions</string>
+    <string name="answereds">Answereds</string>
+    <string name="menu_all_questions">All questions</string>
+    <string name="menu_answereds">Answereds</string>
+    <string name="menu_question">Question</string>
+    <string name="menu_results">Results</string>
+    <string name="add_your_question">Ingrese la nueva pregunta</string>
+    <string name="question">Pregunta</string>
+    <string name="answer_hint">Escriba su respuesta</string>
+    <string name="solo_las_mejores_preguntas_tienen_las_mejores_respuestas">Solo las mejores preguntas tienen las mejores respuestas</string>
+    <string name="encuestas_gt">Encuestas GT</string>
+    <string name="info">Somos una empresa que se dedica a la realizacion de encuentas en diferentes temas
+    tenemos un recorrido de 1 semana pero contamos con alta experiencia llegando a realizar trabajos con
+    estudiantes de la Universidad del valle, para la presidencia de Guatemala y para el Papa.</string>
+    <string name="encuesta_gt">Encuesta Gt</string>
+    <string name="regresar">Regresar</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="communicate">Communicate</string>
+    <string name="respuestas">Respuestas</string>
+    <string name="preguntas">Preguntas</string>
+    <string name="iniciar_encuesta">Iniciar encuesta</string>
+    <string name="Preguntas">Preguntas</string>
+    <string name="tus_preguntas_han_sido_guardadas_abajo_se_le_mostrara_el_numero_de_preguntas_totales">Tus preguntas han sido guardadas, abajo se le mostrara el numero de preguntas totales</string>
+    <string name="Agregar_Pregunta">Agregar Pregunta</string>
+    <string name="Respuestas">Respuestas</string>
+    <string name="Acerca">Acerca De</string>
+</resources>
